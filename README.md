@@ -61,9 +61,9 @@ Credits: Team project (PStA) consisting of materials (slides, assignments, solut
 	- Dec 19:	Monads (Scala)
 	- Jan 9:	Decorators and mixins (Python)
 	- Jan 16:	Dependency Injection
-	- Jan 23:	Squeeze for performance
-	- Jan 30 (1):	Properties
-	- Jan 30 (2):	Rust
+	- Jan 30 (1):	Squeeze for performance
+	- Jan 30 (2):	Properties
+	- Jan 30 (3):	Rust
 
 
 _Subscribe to [https://github.com/hsro-inf-kp/hsro-inf-kp.github.io](https://github.com/hsro-inf-kp) repository to follow updates._
